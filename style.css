@@ -1,0 +1,48 @@
+
+ 
+  body {
+    background: #0f0c29;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #24243e, #302b63, #0f0c29);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #24243e, #302b63, #0f0c29);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+  .container {
+    margin-top: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(248, 241, 241, 0.473), 0 6px 20px 0 rgba(248, 248, 248, 0.39);
+  }
+
+  .joke {
+    margin: 25px;
+    font-weight: bold;
+  }
+
+  .btn {
+    background-color: rgb(84, 27, 216);
+    border-color: white;
+    margin: 15px;
+    font-weight: bolder;
+  }
+
+  .footer {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+
+  footer {
+    color: whitesmoke;
+    text-align: center;
+    margin: 15px;
+    position: fixed;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  span {
+    color: black;
+  }
