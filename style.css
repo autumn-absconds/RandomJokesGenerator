@@ -36,11 +36,8 @@
   footer {
     color: whitesmoke;
     text-align: center;
-    margin: 15px;
-    position: fixed;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+   margin: 55px 0 15px 0;
+   
   }
 
   span {
